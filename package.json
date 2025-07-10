@@ -1,0 +1,35 @@
+{
+  "name": "know-size",
+  "version": "1.0.3",
+  "type": "module",
+  "description": "CLI tool to check and visualize file and folder sizes in your project in terminal",
+  "main": "index.js",
+  "bin": {
+    "know-size": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "knowsize",
+    "know-size",
+    "file-size",
+    "folder-size",
+    "cli",
+    "project-cleanup",
+    "visualize",
+    "terminal",
+    "node",
+    "react",
+    "npm",
+    "express",
+    "size",
+    "mongoose"
+  ],
+  "author": "Ram Sahu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "pretty-bytes": "^7.0.0"
+  }
+}
